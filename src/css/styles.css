@@ -280,7 +280,7 @@ hr{
 #perguntas-frequentes > strong {color: #e8781f}
 
 /* #SECTION 5 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-#galeria{ float: left; width: 70%; padding: 0% 15%; text-align: center; color: #1f5448; }
+#galeria{ float: left; width: 70%; padding: 0% 15% 5%; text-align: center; color: #1f5448; background-size: cover; background-repeat: no-repeat;}
 .webp #galeria {background-image: url(images/bg_galeria.webp);}
 .no-webp #galeria {background-image: url(images/img-fallback/bg_galeria.jpg);}
 
@@ -326,13 +326,14 @@ row > .column {
   
   /* The Close Button */
   .close {
-    color: white;
+    color: #fff;
     position: absolute;
-    top: 10px;
-    right: 25px;
-    font-size: 35px;
-    font-weight: bold;
-  }
+    top: 10%;
+    right: 3.5%;
+    font-size: 3vw;
+    font-weight: 700;
+    z-index: 10;
+}
   
   .close:hover,
   .close:focus {
@@ -343,34 +344,39 @@ row > .column {
   
   .mySlides {
     display: none;
-  }
+    width: 40%;
+    background: #000;
+    padding: 0 30% 0;
+}
   
   .cursor {
     cursor: pointer;
   }
   
   /* Next & previous buttons */
-  .prev,
-  .next {
+  .next,.prev {
     cursor: pointer;
     position: absolute;
-    top: 50%;
-    width: auto;
+    top: 35%;
+    width: 0%;
     padding: 16px;
-    margin-top: -50px;
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
-    transition: 0.6s ease;
+    margin-top: 30%;
+    margin: 0 -25% 0;
+    color: #fff;
+    font-weight: 700;
+    font-size: 2vw;
+    transition: .6s ease;
     border-radius: 0 3px 3px 0;
     user-select: none;
     -webkit-user-select: none;
-  }
+    float: left;
+}
   
   /* Position the "next button" to the right */
   .next {
     right: 0;
     border-radius: 3px 0 0 3px;
+    margin: 0 26% 0;
   }
   
   /* On hover, add a black background color with a little bit see-through */
@@ -400,8 +406,17 @@ row > .column {
   }
   
   .demo {
-    opacity: 0.6;
-  }
+    opacity: .6;
+    width: 95%!important;
+    margin: 0 0 0 0;
+}
+
+#myModal > div > div:nth-child(n+6).column {
+    float: left;
+    width: 5%;
+}
+
+#myModal > div > div:nth-child(12){margin: 0 0 0 30%}
   
   .active,
   .demo:hover {
