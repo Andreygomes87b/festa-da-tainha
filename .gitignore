@@ -1,5 +1,7 @@
 # Ignore gruntJs Folder.
 /node_modules
+/MONTSERRAT FONT
 
 # ignore a single file
 package-lock.json
+Site-home.psd
