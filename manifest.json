@@ -1,11 +1,11 @@
 {
-  "name": "Curso de Direito Pós Graduação em Direito Processual Civil - FDSM",
-  "short_name": "FDSM - Pós Graduação em Direito Processual Civil",
-  "start_url": "https://www.fdsm.edu.br/pos-graduacao-direito-processual-civil/",
+  "name": "6ª Festa da Tainha 2019",
+  "short_name": "6ª Festa da Tainha 2019",
+  "start_url": "https://www.festadatainha2019.com.br",
   "display": "fullscreen",
-  "theme_color": "#f9b006",
-  "background_color": "#f9b006",
-  "description": " Confira a webpage do curso Pós Graduação em Direito Processual Civil, conheça os professores e se intere mais sobre o curso! ",
+  "theme_color": "#e8781f",
+  "background_color": "#e8781f",
+  "description": " Confira a webpage da Sexta Festa da Tainha da Barra da Lagoa! conheça a programação e venha se divertir! ",
   
   "icons": [{
     "src": "images/touch/homescreen48.png",
