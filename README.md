@@ -1,4 +1,4 @@
-# Course of Processual Civil Rights website done for the Southern Minas Gerais Law College (FDSM - Faculdade de Direito do Sul de Minas).
+# Progressive Web App for the sixth edition of a popular brazilian event called "Festa da Tainha da Barra da Lagoa".
 
 - Responsive website built with Twitter model media-queries and general vw's for viewport sizing.
 - Accessibility tested with aXe Deque and Google's lighthouse and improved trought alt's and aria-labels.
@@ -9,22 +9,22 @@
 ---
 
 ### :metal: *Live version:* 
-[Processual Civil Rights (Live).](https://www.fdsm.edu.br/pos-graduacao-direito-processual-civil/)
+["Festa da tainha" (Live).](https://www.festadatainha2019.com.br/)
 
 ---
 
 ### :date: *Web-archive version:*
-[Processual Civil Rights (Web-archive).](http://web.archive.org/web/20190618111924/https://www.fdsm.edu.br/pos-graduacao-direito-processual-civil/)
+["Festa da tainha" (Web-archive).](http://web.archive.org/web/20190918135631/https://www.festadatainha2019.com.br/)
 
 ---
 
-### :rabbit2: *PageSpeed Report* (98 - mobile/ 100 - desktop on Lighthouse scoring guide):
-[PSI Report.](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.fdsm.edu.br%2Fpos-graduacao-direito-processual-civil%2F&tab=desktop)
+### :rabbit2: *PageSpeed Report* (96 - mobile/ 96 - desktop on Lighthouse score):
+[PSI Report.](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.festadatainha2019.com.br%2F&tab=desktop)
 
 ---
 
-### :watch: *GTmetrix test* (98 - PageSpeed/ 92 - YSlow, 1 second to fully loading time!)
-[GTM](https://gtmetrix.com/reports/www.fdsm.edu.br/yI1WzRvo)
+### :watch: *GTmetrix test* (98 - PageSpeed/ 92 - YSlow, 2.4 seconds to fully loading time!)
+[GTM](https://gtmetrix.com/reports/www.festadatainha2019.com.br/zTFwNdwD)
 
 ---
 
